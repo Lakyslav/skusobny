@@ -1,0 +1,1 @@
+# V tomto súbore budú funkcie
